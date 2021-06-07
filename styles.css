@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #fff5eb;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* TITLE */
+
+.main-title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 30vh;
+}
+
+.title {
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-size: 50px;
+}
+
+.title-p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* MAIN SECTION */
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* JOBS */
+
+#jobs{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.job-roulette{
+border-radius: 20px;
+font-family: 'Montserrat', sans-serif;
+}
+
+.job-roulette:hover {
+  background-color: black;
+  color: white;
+}
+
+.jobs-img{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.rollerblader{
+  width: 500px;
+  height: 600px;
+  visibility: hidden;
+}
