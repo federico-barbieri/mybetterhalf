@@ -56,15 +56,70 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .jobs-img{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+
   margin-top: 20px;
+}
+
+.handywoman{
+  width: 500px;
+  height: 600px;
+  visibility: hidden;
+  position: absolute;
+  transform: translateX(-250px);
+}
+
+.lightbulb{
+  width: 500px;
+  height: 600px;
+  visibility: hidden;
+  position: absolute;
+  transform: translateX(-250px);
+}
+
+.ramen{
+  width: 500px;
+  height: 600px;
+  visibility: hidden;
+  position: absolute;
+  transform: translateX(-250px);
+}
+
+.pizza{
+  width: 500px;
+  height: 600px;
+  visibility: hidden;
+  position: absolute;
+  transform: translateX(-250px);
 }
 
 .rollerblader{
   width: 500px;
   height: 600px;
   visibility: hidden;
+  position: absolute;
+  transform: translateX(-250px);
+}
+
+.guide{
+  width: 500px;
+  height: 600px;
+  visibility: hidden;
+  position: absolute;
+  transform: translateX(-250px);
+}
+
+.author{
+  width: 500px;
+  height: 600px;
+  visibility: hidden;
+  position: absolute;
+  transform: translateX(-250px);
+}
+
+.dentist{
+  width: 500px;
+  height: 600px;
+  visibility: hidden;
+  position: absolute;
+  transform: translateX(-250px);
 }
