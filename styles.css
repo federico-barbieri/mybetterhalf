@@ -51,13 +51,17 @@ body{
 .job-roulette{
 border-radius: 20px;
 font-family: 'Montserrat', sans-serif;
-padding: 15px;
+padding: 16px;
 font-size: 20px;
 }
 
 .job-roulette:hover {
   background-color: black;
   color: white;
+}
+
+option{
+  font-size: 17px;
 }
 
 
