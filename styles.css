@@ -16,6 +16,7 @@ body{
   justify-content: center;
   flex-direction: column;
   height: 30vh;
+  width: 60vw;
 
 }
 
@@ -27,6 +28,7 @@ body{
 .title-p{
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
+  text-align: center;
 }
 
 /* MAIN SECTION */
@@ -36,6 +38,7 @@ body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 60vw;
 }
 
 /* JOBS */
@@ -47,6 +50,7 @@ body{
   align-items: center;
   font-size: 20px;
   text-align: center;
+  width: 100vw;
 }
 
 .job-roulette{

@@ -1,3 +1,4 @@
+
 const roulette = document.querySelector('.job-roulette');
 
 const handywoman = document.querySelector('.handywoman');
