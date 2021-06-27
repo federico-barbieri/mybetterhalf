@@ -16,6 +16,7 @@ body{
   justify-content: center;
   flex-direction: column;
   height: 30vh;
+  width: 100vw;
 }
 
 .title {
