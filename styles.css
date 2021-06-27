@@ -16,17 +16,17 @@ body{
   justify-content: center;
   flex-direction: column;
   height: 30vh;
-  width: 100vw;
+
 }
 
 .title {
   font-family: 'Annie Use Your Telescope', cursive;
-  font-size: 70px;
+  font-size: 50px;
 }
 
 .title-p{
   font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 /* MAIN SECTION */
