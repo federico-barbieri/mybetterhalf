@@ -140,7 +140,7 @@ option{
 }
 
 .people15{
-  margin-top: 20vh;
+  margin-top: 50vh;
   font-size: 30px;
 }
 
@@ -159,4 +159,10 @@ option{
   text-align: center;
   font-size: 30px;
   margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
 }
