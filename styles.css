@@ -53,6 +53,10 @@ body{
   width: 100vw;
 }
 
+.just-an-architect{
+  font-size: 25px;
+}
+
 .job-roulette{
 border-radius: 20px;
 font-family: 'Montserrat', sans-serif;
@@ -197,4 +201,39 @@ option{
 
 .tarje8{
   margin-bottom: 15vh;
+}
+
+/* REVIEWS */
+
+#reviews{
+  width: 90vw;
+  text-align: center;
+}
+
+#slider{
+  width: 90vw;
+  margin: 20px auto;
+  text-align: center;
+  margin-bottom: 20vh;
+}
+
+.review-btn{
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  border-radius: 30px;
+  padding: 7px;
+  position: absolute;
+
+}
+
+.btn1{
+
+  transform: translate(-200px, -20px);
+
+}
+
+.btn2{
+
+  transform: translate(150px, -20px);
+
 }
