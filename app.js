@@ -75,8 +75,3 @@ let friendsReviews = ["this", "is", "a", "test"]
 //[Lis, Liv, Sarah, Maria, Sarah2];
 
 let count = 0;
-
-btn2.addEventListener('click', () {
-  count +=1;
-  friendsReviews[count];
-})

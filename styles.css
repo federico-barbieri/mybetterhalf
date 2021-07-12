@@ -208,14 +208,10 @@ option{
 #reviews{
   width: 90vw;
   text-align: center;
-}
-
-#slider{
-  width: 90vw;
-  margin: 20px auto;
-  text-align: center;
   margin-bottom: 20vh;
 }
+
+
 
 .review-btn{
   font-family: "Montserrat", sans-serif;
@@ -228,12 +224,12 @@ option{
 
 .btn1{
 
-  transform: translate(-200px, -20px);
+  transform: translate(-270px, -20px);
 
 }
 
 .btn2{
 
-  transform: translate(150px, -20px);
+  transform: translate(210px, -20px);
 
 }
