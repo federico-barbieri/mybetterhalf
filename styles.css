@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body{
@@ -203,33 +204,99 @@ option{
   margin-bottom: 15vh;
 }
 
-/* REVIEWS */
+/* CAROUSEL */
 
-#reviews{
-  width: 90vw;
+
+.review-title{
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+.carousel-container{
+  width: 100vw;
+  margin: auto;
   text-align: center;
   margin-bottom: 20vh;
+  display: flex;
+  flex-direction: column;
 }
 
 
 
-.review-btn{
-  font-family: "Montserrat", sans-serif;
-  font-size: 15px;
-  border-radius: 30px;
-  padding: 7px;
-  position: absolute;
 
+/* LIS KAYSER */
+
+.lis{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin: 10vh 10vw 3vh 10vw;
+  height: 15vh;
 }
 
-.btn1{
-
-  transform: translate(-270px, -20px);
-
+.lis-picture{
+width: 200px;
+height: 200px;
+border-radius: 50%;
 }
 
-.btn2{
+.lis-h4{
+  margin-top: 15px;
+}
 
-  transform: translate(210px, -20px);
+.lis-p{
+  margin-top: 8px;
+}
 
+/* SARAH FALK */
+
+.sarah{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10vh 10vw 3vh 10vw;
+  height: 15vh;
+}
+
+.sarah-picture{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+
+.sarah-h4{
+  margin-top: 15px;
+}
+
+.sarah-p{
+  margin-top: 8px;
+}
+
+/* LIV SKOVGAARD */
+
+.liv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10vh 10vw 3vh 10vw;
+  height: 15vh;
+}
+
+.liv-picture{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+
+.liv-h4{
+  margin-top: 15px;
+}
+
+.liv-p{
+  margin-top: 8px;
 }
