@@ -63,15 +63,3 @@ if (roulette.value == 8){
   dentist.style.zIndex = count;
 }
 })
-
-
-
-// REVIEW CAROUSEL
-
-const btn1 = document.querySelector('.btn1');
-const btn2 = document.querySelector('.btn2');
-
-let friendsReviews = ["this", "is", "a", "test"]
-//[Lis, Liv, Sarah, Maria, Sarah2];
-
-let count = 0;
