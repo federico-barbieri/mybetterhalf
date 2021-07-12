@@ -214,12 +214,14 @@ option{
 }
 
 .carousel-container{
-  width: 100vw;
-  margin: auto;
-  text-align: center;
-  margin-bottom: 20vh;
+  height: 150vh;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
+
+  margin-bottom: 20vh;
+
+
 }
 
 
@@ -233,22 +235,26 @@ option{
   justify-content: center;
   align-items: center;
 
-  margin: 10vh 10vw 3vh 10vw;
-  height: 15vh;
+  margin: 10vh auto 3vh auto;
+  height: 50vh;
+  width: 100vw;
+  user-select: none;
 }
 
 .lis-picture{
-width: 200px;
-height: 200px;
+width: 400px;
+height: 400px;
 border-radius: 50%;
 }
 
 .lis-h4{
   margin-top: 15px;
+  font-size: 30px;
 }
 
 .lis-p{
   margin-top: 8px;
+  font-size: 20px;
 }
 
 /* SARAH FALK */
@@ -258,22 +264,25 @@ border-radius: 50%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 10vh 10vw 3vh 10vw;
-  height: 15vh;
+margin: 10vh auto 3vh auto;
+  height: 50vh;
+  width: 100vw;
 }
 
 .sarah-picture{
-width: 200px;
-height: 200px;
+width: 400px;
+height: 400px;
 border-radius: 50%;
 }
 
 .sarah-h4{
   margin-top: 15px;
+  font-size: 30px;
 }
 
 .sarah-p{
   margin-top: 8px;
+  font-size: 20px;
 }
 
 /* LIV SKOVGAARD */
@@ -283,20 +292,23 @@ border-radius: 50%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 10vh 10vw 3vh 10vw;
-  height: 15vh;
+margin: 10vh auto 3vh auto;
+  height: 50vh;
+  width: 100vw;
 }
 
 .liv-picture{
-width: 200px;
-height: 200px;
+width: 400px;
+height: 400px;
 border-radius: 50%;
 }
 
 .liv-h4{
   margin-top: 15px;
+  font-size: 30px;
 }
 
 .liv-p{
   margin-top: 8px;
+  font-size: 20px;
 }
