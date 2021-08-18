@@ -79,7 +79,7 @@ color: #FDF6F0;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: 2rem;
+  font-size: 3rem;
   width: 100vw;
   height: 100vh;
   background: rgb(150,186,255);
@@ -89,7 +89,7 @@ color: #FDF6F0;
 
 .just-an-architect{
   text-align: left;
-  font-size: 2rem;
+  
   width: 80%;
   margin: 50px auto 20px auto;
 }
@@ -97,8 +97,9 @@ color: #FDF6F0;
 .job-roulette{
 border-radius: 20px;
 font-family: 'Montserrat', sans-serif;
-padding: 16px;
-font-size: 20px;
+padding: 1rem;
+font-size: 3rem;
+
 }
 
 .job-roulette:hover {
