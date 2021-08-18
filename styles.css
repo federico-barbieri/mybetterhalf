@@ -122,11 +122,12 @@ option{
 /* CARDS */
 
 #cards{
-  margin-top: 15vh;
-  font-size: 2rem;
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-size: 2rem;
+  width: 100vw;
+  height: 150vh; 
 }
 
 .cute-messages{
