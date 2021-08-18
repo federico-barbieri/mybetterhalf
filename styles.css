@@ -51,8 +51,12 @@ body{
 }
 
 .scroll-down-for-love{
-font-size: 1.5rem;
+font-size: 2rem;
 color: #FDF6F0;
+}
+
+.arrow{
+  color: #FDF6F0;
 }
 
 /* MAIN SECTION */
