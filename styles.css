@@ -27,13 +27,13 @@ body{
 
 .title {
   font-family: 'Annie Use Your Telescope', cursive;
-  font-size: 5rem;
-  margin: 150px auto 20px auto;
+  font-size: 6rem;
+  margin: 300px auto 20px auto;
   color: #FDF6F0;
 }
 
 .title-h3{
-  font-size: 3rem;
+  font-size: 4rem;
   text-align: center;
   margin: 20px auto 50px auto;
   color: #FDF6F0;
@@ -47,7 +47,7 @@ body{
   align-items: center;
   height: 100px;
   justify-content: space-between;
-  transform: translateY(650px);
+  transform: translateY(900px);
 }
 
 .scroll-down-for-love{
