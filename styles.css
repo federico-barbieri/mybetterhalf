@@ -79,6 +79,7 @@ color: #FDF6F0;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-align: left;
   width: 100vw;
   height: 100vh;
   background: rgb(150,186,255);
