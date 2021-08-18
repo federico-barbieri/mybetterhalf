@@ -79,15 +79,19 @@ color: #FDF6F0;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  text-align: left;
+  font-size: 2rem;
   width: 100vw;
   height: 100vh;
   background: rgb(150,186,255);
   background: linear-gradient(100deg, rgba(150,186,255,1) 0%, rgba(249,249,249,1) 100%);
+  margin: 50px auto 50px auto;
 }
 
 .just-an-architect{
-  font-size: 1.5rem;
+  text-align: left;
+  font-size: 2rem;
+  width: 80%;
+  margin: 50px auto 20px auto;
 }
 
 .job-roulette{
@@ -109,12 +113,12 @@ option{
 
 .jobs-img{
 
-  margin-top: 20px;
+  margin-top: 1rem;
 }
 
 .handywoman{
-  width: 500px;
-  height: 600px;
+  max-width: 500px;
+  max-height: auto;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
