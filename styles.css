@@ -39,9 +39,19 @@ body{
   color: #FDF6F0;
 }
 
+.scroll-down{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  max-width: 100vw;
+  align-items: center;
+  height: 100px;
+  justify-content: space-between;
+  transform: translateY(300px);
+}
+
 .scroll-down-for-love{
 font-size: 1.5rem;
-margin-top: 200px;
 color: #FDF6F0;
 }
 
