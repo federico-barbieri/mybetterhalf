@@ -132,7 +132,7 @@ option{
 
 .cute-messages{
   text-align: left;
-  margin: 1.2rem auto 2rem auto;
+  margin: 5rem auto 2rem auto;
 }
 
 .cards {
@@ -189,7 +189,7 @@ option{
 .review-title{
   max-width: 80%;
   text-align: center;
-  margin: 8rem auto 1rem auto;
+  margin: 12rem auto 1rem auto;
 }
 
 
@@ -232,7 +232,7 @@ option{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 2rem auto 1rem auto;
+  margin: 10rem auto 1rem auto;
   min-height: 500px;
   max-width: 60vw;
 }
