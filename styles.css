@@ -213,8 +213,8 @@ option{
   max-width: 400px;
   max-height: 400px;
   border-radius: 50%;
-  -webkit-filter: drop-shadow(8px 8px 10px);
-  filter: drop-shadow(8px 8px 10px);
+  -webkit-filter: drop-shadow(8px 8px 10px #082032);
+  filter: drop-shadow(8px 8px 10px #082032);
 }
 
 .lis-h4{
@@ -244,8 +244,8 @@ option{
   max-width: 400px;
   max-height: 400px;
   border-radius: 50%;
-  -webkit-filter: drop-shadow(8px 8px 10px);
-  filter: drop-shadow(8px 8px 10px);
+  -webkit-filter: drop-shadow(8px 8px 10px #082032);
+  filter: drop-shadow(8px 8px 10px #082032);
 
 }
 
@@ -276,8 +276,8 @@ option{
 max-width: 400px;
 max-height: 400px;
 border-radius: 50%;
--webkit-filter: drop-shadow(8px 8px 10px);
-filter: drop-shadow(8px 8px 10px);
+-webkit-filter: drop-shadow(8px 8px 10px #082032);
+filter: drop-shadow(8px 8px 10px #082032);
 }
 
 .liv-h4{
