@@ -132,13 +132,7 @@ option{
 
 .cute-messages{
   text-align: left;
-  margin: 0.7rem auto 0 auto;
-
-}
-
-.scroll-down{
-  text-align: left;
-  margin: 0.5rem auto 1rem auto;
+  margin: 1.2rem auto 2rem auto;
 }
 
 .cards {
@@ -152,31 +146,31 @@ option{
 }
 
 .tarje2{
-  margin-bottom: 15vh;
+  margin: 1rem auto 1rem auto;
 }
 
 .tarje3{
-  margin-bottom: 15vh;
+  margin: 1rem auto 1rem auto;
 }
 
 .tarje4{
-  margin-bottom: 15vh;
+  margin: 1rem auto 1rem auto;
 }
 
 .tarje5{
-  margin-bottom: 15vh;
+  margin: 1rem auto 1rem auto;
 }
 
 .tarje6{
-  margin-bottom: 15vh;
+  margin: 1rem auto 1rem auto;
 }
 
 .tarje7{
-  margin-bottom: 15vh;
+  margin: 1rem auto 1rem auto;
 }
 
 .tarje8{
-  margin-bottom: 15vh;
+  margin: 1rem auto 1rem auto;
 }
 
 /* CAROUSEL */
