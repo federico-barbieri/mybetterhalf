@@ -132,22 +132,23 @@ option{
 
 .cute-messages{
   text-align: left;
-  margin: 1.5rem auto 0.2rem auto;
+  margin: 0.7rem auto 0 auto;
 
 }
 
 .scroll-down{
   text-align: left;
-  margin: 1.5rem auto 1rem auto;
+  margin: 0.5rem auto 1rem auto;
 }
 
 .cards {
   display: flex;
   flex-direction: column;
+  margin: 2rem auto 1rem auto;
 }
 
 .tarje1{
-  margin-bottom: 15vh;
+  margin: 2rem auto 1rem auto;
 }
 
 .tarje2{
