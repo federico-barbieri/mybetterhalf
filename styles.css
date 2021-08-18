@@ -127,7 +127,7 @@ option{
   align-items: center;
   font-size: 2rem;
   width: 100vw;
-  height: 150vh;
+  height: 4800px;
 }
 
 .cute-messages{
@@ -193,7 +193,7 @@ option{
   background: rgb(150,186,255);
   background: linear-gradient(100deg, rgba(150,186,255,1) 0%, rgba(249,249,249,1) 100%);
   margin: 50px auto 50px auto;
-  height: 200vh;
+  height: 3000px;
 }
 
 
