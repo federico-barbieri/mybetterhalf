@@ -181,8 +181,10 @@ option{
 }
 
 .people15{
-  margin-top: 50vh;
-  font-size: 30px;
+  text-align: left;
+  width: 80%;
+  margin: 250px auto 20px auto;
+
 }
 
 /* CARDS */
