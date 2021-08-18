@@ -111,79 +111,11 @@ option{
 }
 
 
-.jobs-img{
-
-  margin-top: 1rem;
-}
-
-.handywoman{
-  max-width: 500px;
-  max-height: 500px;
-  visibility: hidden;
-  position: absolute;
-  transform: translateX(-250px);
-}
-
-.lightbulb{
-  max-width: 500px;
-  max-height: 500px;
-  visibility: hidden;
-  position: absolute;
-  transform: translateX(-250px);
-}
-
-.ramen{
-  max-width: 500px;
-  max-height: 500px;
-  visibility: hidden;
-  position: absolute;
-  transform: translateX(-250px);
-}
-
-.pizza{
-  max-width: 500px;
-  max-height: 500px;
-  visibility: hidden;
-  position: absolute;
-  transform: translateX(-250px);
-}
-
-.rollerblader{
-  max-width: 500px;
-  max-height: 500px;
-  visibility: hidden;
-  position: absolute;
-  transform: translateX(-250px);
-}
-
-.guide{
-  max-width: 500px;
-  max-height: 500px;
-  visibility: hidden;
-  position: absolute;
-  transform: translateX(-250px);
-}
-
-.author{
-  max-width: 500px;
-  max-height: 500px;
-  visibility: hidden;
-  position: absolute;
-  transform: translateX(-250px);
-}
-
-.dentist{
-  max-width: 500px;
-  max-height: 500px;
-  visibility: hidden;
-  position: absolute;
-  transform: translateX(-250px);
-}
 
 .people15{
   text-align: left;
   width: 80%;
-  margin: 250px auto 20px auto;
+  margin: 550px auto 20px auto;
 
 }
 
