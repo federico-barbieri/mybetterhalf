@@ -127,7 +127,7 @@ option{
   align-items: center;
   font-size: 2rem;
   width: 100vw;
-  height: 150vh; 
+  height: 150vh;
 }
 
 .cute-messages{
@@ -188,14 +188,12 @@ option{
 }
 
 .carousel-container{
-  height: 150vh;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
-
-  margin-bottom: 20vh;
-
-
+  background: rgb(150,186,255);
+  background: linear-gradient(100deg, rgba(150,186,255,1) 0%, rgba(249,249,249,1) 100%);
+  margin: 50px auto 50px auto;
+  height: 150vh;
 }
 
 
