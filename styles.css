@@ -118,7 +118,7 @@ option{
 
 .handywoman{
   max-width: 500px;
-  max-height: auto;
+  max-height: 600px;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
@@ -126,7 +126,7 @@ option{
 
 .lightbulb{
   max-width: 500px;
-  max-height: auto;
+  max-height: 600px;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
@@ -134,7 +134,7 @@ option{
 
 .ramen{
   max-width: 500px;
-  max-height: auto;
+  max-height: 600px;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
@@ -142,7 +142,7 @@ option{
 
 .pizza{
   max-width: 500px;
-  max-height: auto;
+  max-height: 600px;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
@@ -150,7 +150,7 @@ option{
 
 .rollerblader{
   max-width: 500px;
-  max-height: auto;
+  max-height: 600px;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
@@ -158,7 +158,7 @@ option{
 
 .guide{
   max-width: 500px;
-  max-height: auto;
+  max-height: 600px;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
@@ -166,7 +166,7 @@ option{
 
 .author{
   max-width: 500px;
-  max-height: auto;
+  max-height: 600px;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
@@ -174,7 +174,7 @@ option{
 
 .dentist{
   max-width: 500px;
-  max-height: auto;
+  max-height: 600px;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
