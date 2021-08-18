@@ -125,56 +125,56 @@ option{
 }
 
 .lightbulb{
-  width: 500px;
-  height: 600px;
+  max-width: 500px;
+  max-height: auto;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
 }
 
 .ramen{
-  width: 500px;
-  height: 600px;
+  max-width: 500px;
+  max-height: auto;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
 }
 
 .pizza{
-  width: 500px;
-  height: 600px;
+  max-width: 500px;
+  max-height: auto;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
 }
 
 .rollerblader{
-  width: 500px;
-  height: 600px;
+  max-width: 500px;
+  max-height: auto;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
 }
 
 .guide{
-  width: 500px;
-  height: 600px;
+  max-width: 500px;
+  max-height: auto;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
 }
 
 .author{
-  width: 500px;
-  height: 600px;
+  max-width: 500px;
+  max-height: auto;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
 }
 
 .dentist{
-  width: 500px;
-  height: 600px;
+  max-width: 500px;
+  max-height: auto;
   visibility: hidden;
   position: absolute;
   transform: translateX(-250px);
