@@ -295,13 +295,116 @@ filter: drop-shadow(8px 8px 10px #082032);
 /* COOL AUNT */
 
 #aunt{
-  width: 80%;
-  height: 20rem;
+  width: 90%;
+  height: 100rem;
   margin: 5rem auto 2rem auto;
+  overflow: hidden;
 }
 
 .cool-aunt-title{
   font-size: 3rem;
   text-align: center;
-  
+  margin: 2rem auto 5rem auto;
+}
+
+.olivia{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 90%;
+height: 50rem;
+margin: 2rem auto 1rem auto;
+justify-content: space-evenly;
+}
+
+.olivia1{
+display: flex;
+flex-direction: column;
+width: 20rem;
+height: 18rem;
+text-align: center;
+align-items: center;
+justify-content: center;
+background: rgb(214,148,176);
+background: linear-gradient(325deg, rgba(214,148,176,1) 0%, rgba(253,239,239,1) 80%);
+-webkit-filter: drop-shadow(6px 6px 10px #082032);
+filter: drop-shadow(6px 6px 10px #082032);
+border-radius: 1.5rem;
+}
+
+.olivia-1-pic{
+  transform: scale(0.9);
+  width: 280px;
+  height: 280px;
+  display: inline;
+  border-radius: 50%;
+  -webkit-filter: drop-shadow(6px 6px 10px #082032);
+  filter: drop-shadow(6px 6px 10px #082032);
+}
+
+.olivia-1-span{
+  font-size: 0.8rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.olivia2{
+display: flex;
+flex-direction: column;
+width: 20rem;
+height: 18rem;
+text-align: center;
+align-items: center;
+justify-content: center;
+background: rgb(214,148,176);
+background: linear-gradient(325deg, rgba(214,148,176,1) 0%, rgba(253,239,239,1) 80%);
+-webkit-filter: drop-shadow(6px 6px 10px #082032);
+filter: drop-shadow(6px 6px 10px #082032);
+border-radius: 1.5rem;
+}
+
+.olivia-2-pic{
+  transform: scale(0.9);
+  width: 280px;
+  height: 280px;
+  display: inline;
+  border-radius: 50%;
+  -webkit-filter: drop-shadow(6px 6px 10px #082032);
+  filter: drop-shadow(6px 6px 10px #082032);
+}
+
+.olivia-2-span{
+  font-size: 0.8rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.olivia3{
+display: flex;
+flex-direction: column;
+width: 20rem;
+height: 18rem;
+text-align: center;
+align-items: center;
+justify-content: space-around;
+background: rgb(214,148,176);
+background: linear-gradient(325deg, rgba(214,148,176,1) 0%, rgba(253,239,239,1) 80%);
+-webkit-filter: drop-shadow(6px 6px 10px #082032);
+filter: drop-shadow(6px 6px 10px #082032);
+border-radius: 1.5rem;
+}
+
+.olivia-3-pic{
+  transform: scale(0.9);
+  width: 280px;
+  height: 280px;
+  display: inline;
+  border-radius: 50%;
+  -webkit-filter: drop-shadow(6px 6px 10px #082032);
+  filter: drop-shadow(6px 6px 10px #082032);
+}
+
+.olivia-3-span{
+font-size: 0.8rem;
+padding-bottom: 1rem;
 }
