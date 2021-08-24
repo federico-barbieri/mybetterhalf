@@ -81,16 +81,16 @@ color: #FDF6F0;
   justify-content: center;
   font-size: 2rem;
   width: 100vw;
-  height: 100vh;
+  height: 50rem;
   background: rgb(150,186,255);
   background: linear-gradient(100deg, rgba(150,186,255,1) 0%, rgba(249,249,249,1) 100%);
   margin: 50px auto 50px auto;
 }
 
 .just-an-architect{
-  text-align: left;
+  text-align: center;
   width: 80%;
-  margin: 50px auto 20px auto;
+  margin: 10rem auto 1.5rem auto;
 }
 
 .job-roulette{
@@ -113,9 +113,9 @@ option{
 
 
 .people15{
-  text-align: left;
+  text-align: center;
   width: 80%;
-  margin: 550px auto 20px auto;
+  margin: 15rem auto 2rem auto;
 
 }
 
@@ -289,4 +289,19 @@ filter: drop-shadow(8px 8px 10px #082032);
   margin-top: 0.5rem;
   font-size: 2rem;
   text-align: left;
+}
+
+
+/* COOL AUNT */
+
+#aunt{
+  width: 80%;
+  height: 20rem;
+  margin: 5rem auto 2rem auto;
+}
+
+.cool-aunt-title{
+  font-size: 3rem;
+  text-align: center;
+  
 }
