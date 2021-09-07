@@ -39,6 +39,16 @@ body{
   margin: 0 auto 10rem auto;
 }
 
+@media only screen and (max-width: 1000px){
+  .main-title{
+    margin: 0 auto 20rem auto;
+  }
+  .title{
+    margin: 15rem auto 2rem auto;
+  }
+}
+
+
 .title {
   font-family: 'Annie Use Your Telescope', cursive;
   font-size: 6rem;
