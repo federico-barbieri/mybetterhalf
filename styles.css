@@ -33,15 +33,9 @@ body{
   align-items: center;
   justify-content: flex-start;
   flex-direction: column;
-  min-height: 50rem;
+  height: 50rem;
   max-width: 90%;
   text-align: center;
-}
-
-@media only screen and (max-width: 800px){
-  .main-title{
-    height: 100vh;
-  }
 }
 
 .title {
@@ -84,19 +78,19 @@ color: #FDF6F0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   font-size: 2rem;
-  width: 100%;
+  width: 80%;
   min-height: 80rem;
-  background: rgb(150,186,255);
-  background: linear-gradient(100deg, rgba(150,186,255,1) 0%, rgba(249,249,249,1) 100%);
+  background: rgb(228,221,224);
+  background: linear-gradient(325deg, rgba(228,221,224,1) 0%, rgba(236,218,233,1) 80%);
   margin: 1rem auto 2rem auto;
 }
 
 .just-an-architect{
   text-align: center;
   max-width: 80%;
-  margin: 2rem auto 1.5rem auto;
+  margin: 10rem auto 1.5rem auto;
 }
 
 .job-roulette{
