@@ -48,13 +48,10 @@ body{
 
 @media only screen and (max-width: 1000px){
   .main-title{
-    margin: 5rem auto 10rem auto;
+    margin: 5rem auto 20rem auto;
   }
   .title{
     margin: 15rem auto 2rem auto;
-  }
-  #jobs{
-    margin: 10rem auto 2rem auto;
   }
 }
 
