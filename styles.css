@@ -46,9 +46,9 @@ body{
   color: #FDF6F0;
 }
 
-@media screen only and (max-width: 1000px){
+@media only screen and (max-width: 1000px){
   .main-title{
-    margin: 0 auto 20rem auto;
+    margin: 5rem auto 10rem auto;
   }
   .title{
     margin: 15rem auto 2rem auto;
@@ -65,7 +65,7 @@ body{
 .scroll-down{
   display: flex;
   flex-direction: column;
-  max-width: 100%;
+  width: 100%;
   align-items: center;
   height: 5rem;
   justify-content: space-between;
