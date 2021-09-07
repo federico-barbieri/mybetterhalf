@@ -53,6 +53,9 @@ body{
   .title{
     margin: 15rem auto 2rem auto;
   }
+  #jobs{
+    margin: 10rem auto 2rem auto;
+  }
 }
 
 .title-h3{
@@ -75,6 +78,7 @@ body{
 .scroll-down-for-love{
 font-size: 2.5rem;
 color: #FDF6F0;
+width: 100%;
 }
 
 .arrow{
