@@ -36,7 +36,12 @@ body{
   min-height: 50rem;
   max-width: 90%;
   text-align: center;
+}
 
+@media only screen and (max-width: 800px){
+  .main-title{
+    min-height: 100vh;
+  }
 }
 
 .title {
@@ -298,7 +303,7 @@ filter: drop-shadow(8px 8px 10px #082032);
 
 #aunt{
   width: 90%;
-  min-height: 95rem;
+  min-height: 50rem;
   margin: 5rem auto 2rem auto;
 
 }
