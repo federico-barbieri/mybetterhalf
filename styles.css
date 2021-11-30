@@ -405,39 +405,28 @@ filter: drop-shadow(8px 8px 10px #082032);
 
 #aunt{
   width: 100%;
-  height: 100rem;
+  height: 80rem;
   margin: 5rem auto 2rem auto;
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .cool-aunt-title{
   font-size: 3rem;
   text-align: center;
-  margin: 2rem auto 15rem auto;
+  margin: 2rem auto 10rem auto;
 }
 
 .nieces{
 display: grid;
 grid-template-columns: 1fr 1fr;
 grid-template-rows: 1fr 1fr 1fr;
-width: 100%;
+width: 90vw;
 height: auto;
-margin: 5rem auto 1rem auto;
+margin: 2rem auto 1rem auto;
 text-align: center;
-}
-
-.olivia1{
-display: flex;
-flex-direction: column;
-width: 20rem;
-height: 18rem;
-text-align: center;
-align-items: center;
-justify-content: center;
--webkit-filter: drop-shadow(6px 6px 10px #082032);
-filter: drop-shadow(6px 6px 10px #082032);
-border-radius: 1.5rem;
-margin: 1rem auto 1rem auto;
 }
 
 .olivia-1-pic{
@@ -448,6 +437,8 @@ margin: 1rem auto 1rem auto;
   border-radius: 50%;
   -webkit-filter: drop-shadow(6px 6px 10px #082032);
   filter: drop-shadow(6px 6px 10px #082032);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .olivia-2-pic{
@@ -458,6 +449,8 @@ margin: 1rem auto 1rem auto;
   border-radius: 50%;
   -webkit-filter: drop-shadow(6px 6px 10px #082032);
   filter: drop-shadow(6px 6px 10px #082032);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .olivia-3-pic{
@@ -468,21 +461,8 @@ margin: 1rem auto 1rem auto;
   border-radius: 50%;
   -webkit-filter: drop-shadow(6px 6px 10px #082032);
   filter: drop-shadow(6px 6px 10px #082032);
-}
-
-
-.lea1{
-display: flex;
-flex-direction: column;
-width: 20rem;
-height: 18rem;
-text-align: center;
-align-items: center;
-justify-content: center;
--webkit-filter: drop-shadow(6px 6px 10px #082032);
-filter: drop-shadow(6px 6px 10px #082032);
-border-radius: 1.5rem;
-margin: 1rem auto 1rem auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .lea-1-pic{
@@ -493,6 +473,8 @@ margin: 1rem auto 1rem auto;
   border-radius: 50%;
   -webkit-filter: drop-shadow(6px 6px 10px #082032);
   filter: drop-shadow(6px 6px 10px #082032);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .lea-2-pic{
@@ -503,6 +485,8 @@ margin: 1rem auto 1rem auto;
   border-radius: 50%;
   -webkit-filter: drop-shadow(6px 6px 10px #082032);
   filter: drop-shadow(6px 6px 10px #082032);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .lea-3-pic{
@@ -513,4 +497,6 @@ margin: 1rem auto 1rem auto;
   border-radius: 50%;
   -webkit-filter: drop-shadow(6px 6px 10px #082032);
   filter: drop-shadow(6px 6px 10px #082032);
+  margin-left: auto;
+  margin-right: auto;
 }
