@@ -414,9 +414,9 @@ filter: drop-shadow(8px 8px 10px #082032);
 }
 
 .cool-aunt-title{
-  font-size: 3rem;
+  font-size: 2.5rem;
   text-align: center;
-  margin: 2rem auto 10rem auto;
+  margin: 2rem auto 5rem auto;
 }
 
 .nieces{
@@ -499,4 +499,18 @@ text-align: center;
   filter: drop-shadow(6px 6px 10px #082032);
   margin-left: auto;
   margin-right: auto;
+}
+
+.reviewSpans{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  height: 15rem;
+  margin: 2rem auto 1rem auto;
+}
+
+.fa-star{
+  color: #FFCC1D;
 }
