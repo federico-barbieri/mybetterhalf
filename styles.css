@@ -598,3 +598,21 @@ text-align: center;
 .reviewww{
   font-size: 1.5rem;
 }
+
+/* ENDING */
+
+.ending{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 90%;
+  height: 80vh;
+}
+
+.endingH2{
+  font-size: 2rem;
+  text-align: center;
+  margin: 2rem auto 5rem auto;
+}
