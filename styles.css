@@ -270,6 +270,82 @@ option{
   margin: 0 auto 1rem auto;
 }
 
+/* WINE */
+
+#wine{
+  width: 90%;
+  height: 50rem;
+  margin: 0rem auto 2rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.zinaDrankIt{
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 2rem auto 5rem auto;
+}
+
+.zina-wine{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 90vw;
+  height: 100vh;
+  margin: 2rem auto 1rem auto;
+  text-align: center;
+}
+
+.zina-2-wine{
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  -webkit-filter: drop-shadow(6px 6px 10px #082032);
+  filter: drop-shadow(6px 6px 10px #082032);
+}
+
+
+/* FASHION */
+
+#fashion{
+  width: 90%;
+  height: 80rem;
+  margin: 2rem auto 2rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.getMeStarted{
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 2rem auto 5rem auto;
+}
+
+.fashionPics{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 90vw;
+  height: 100vh;
+  margin: 2rem auto 1rem auto;
+  text-align: center;
+}
+
+.fashionImg{
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  -webkit-filter: drop-shadow(6px 6px 10px #082032);
+  filter: drop-shadow(6px 6px 10px #082032);
+}
+
+
 /* CAROUSEL */
 
 .carousel-container{
@@ -521,78 +597,4 @@ text-align: center;
 
 .reviewww{
   font-size: 1.5rem;
-}
-
-/* WINE */
-
-#wine{
-  width: 90%;
-  height: 50rem;
-  margin: 0rem auto 2rem auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.zinaDrankIt{
-  font-size: 2.5rem;
-  text-align: center;
-  margin: 2rem auto 5rem auto;
-}
-
-.zina-wine{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-around;
-  width: 90vw;
-  height: 100vh;
-  margin: 2rem auto 1rem auto;
-  text-align: center;
-}
-
-.zina-2-wine{
-  width: 400px;
-  height: 400px;
-  border-radius: 50%;
-  -webkit-filter: drop-shadow(6px 6px 10px #082032);
-  filter: drop-shadow(6px 6px 10px #082032);
-}
-
-/* FASHION */
-
-#fashion{
-  width: 90%;
-  height: 80rem;
-  margin: 2rem auto 2rem auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.getMeStarted{
-  font-size: 2.5rem;
-  text-align: center;
-  margin: 2rem auto 5rem auto;
-}
-
-.fashionPics{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-around;
-  width: 90vw;
-  height: 100vh;
-  margin: 2rem auto 1rem auto;
-  text-align: center;
-}
-
-.fashionImg{
-  width: 400px;
-  height: 400px;
-  border-radius: 50%;
-  -webkit-filter: drop-shadow(6px 6px 10px #082032);
-  filter: drop-shadow(6px 6px 10px #082032);
 }
