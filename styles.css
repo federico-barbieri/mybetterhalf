@@ -50,7 +50,7 @@ body{
 
 @media only screen and (max-width: 1000px){
   .main-title{
-    margin: 5rem auto 20rem auto;
+    margin: 1rem auto 20rem auto;
   }
   .title{
     margin: 15rem auto 2rem auto;
